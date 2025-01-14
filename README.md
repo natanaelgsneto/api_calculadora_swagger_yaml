@@ -1,3 +1,8 @@
 # api_calculadora_swagger_yaml
 <b>testes</b> 
-<img src="[pic_trulli.jpg](https://files.fm/f/b7sy79uk2k)"/>
+<h2>Primeiro passo:</h2>
+<img src="image1.png"/>
+<h2>Segundo passo:</h2>
+<img src="image2.png"/>
+<h2>Terceiro passo:</h2>
+<img src="imag3.png"/>
