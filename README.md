@@ -6,3 +6,6 @@
 <img src="image2.png"/>
 <h2>Terceiro passo:</h2>
 <img src="imag3.png"/>
+
+<h2>Organização de pastas</h2>
+<img src="imag4.png"/>
