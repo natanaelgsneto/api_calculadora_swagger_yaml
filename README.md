@@ -1,5 +1,5 @@
 # api_calculadora_swagger_yaml
-<b>testes</b> 
+<b>Obs: descompacte o node_modules ( parte 1 e 2 e coloque no mesmo diretório ) </b> 
 <h2>Primeiro passo:</h2>
 <img src="image1.png"/>
 <h2>Segundo passo:</h2>
